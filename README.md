@@ -52,7 +52,6 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 
 ## 🔗 Conecte-se comigo
 * [LinkedIn](https://www.linkedin.com/in/adriano-rosa-mazetto/)
-* [Portfólio/FazBico](https://github.com/amazetto) (Em desenvolvimento)
 
 ---
 
