@@ -8,7 +8,7 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 
 ## 🛠️ No que eu trabalho atualmente
 * **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
-* **Projeto FazBico:** Desenvolvendo uma plataforma para conectar prestadores de serviços locais via WhatsApp..
+* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um Software como Serviço (SaaS) construído com **React, TypeScript, TailwindCSS** e gerenciado por **Supabase** (PostgreSQL, Auth, Storage) na infraestrutura da **Vercel**. Visite o projeto no ar: [fazbico.net](https://www.fazbico.net/)
 
 
 ## 🚀 Minhas Habilidades
@@ -47,8 +47,6 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomazetto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomazetto&layout=compact&langs_count=7&theme=radical" />
 </p>
-
----
 
 ---
 
