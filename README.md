@@ -9,7 +9,7 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ## 🛠️ No que eu trabalho atualmente
 * **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
 * **Projeto FazBico:** Desenvolvendo uma plataforma para conectar prestadores de serviços locais via WhatsApp..
-* **Cultura Maker:** Integrando hardware e software, como o projeto "Passa ou Repassa" com **ESP32** e JavaScript.
+
 
 ## 🚀 Minhas Habilidades
 
