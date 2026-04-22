@@ -50,6 +50,7 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianomazetto&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianomazetto&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical" alt="GitHub Streak" />
 
 ---
 
