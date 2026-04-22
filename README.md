@@ -7,9 +7,12 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ---
 
 ## 🛠️ No que eu trabalho atualmente
-* **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
-* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um Software como Serviço (SaaS) construído com **React, TypeScript, TailwindCSS** e gerenciado por **Supabase** (PostgreSQL, Auth, Storage) na infraestrutura da **Vercel**. Visite o projeto no ar: <a href="https://www.fazbico.net/" target="_blank" rel="noopener noreferrer">fazbico.net</a>
 
+* **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
+* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um SaaS construído com **React, TypeScript, TailwindCSS** e **Supabase**. 
+  - **Visite o projeto:** <a href="https://www.fazbico.net/" target="_blank" rel="noopener noreferrer">fazbico.net</a>
+
+---
 
 ## 🚀 Minhas Habilidades
 
@@ -18,10 +21,8 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### ⚙️ Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -29,34 +30,35 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🐧 DevOps & Infra
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ### 🔌 Hardware & IoT
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-<p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomazetto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomazetto&layout=compact&langs_count=7&theme=radical" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianomazetto&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomazetto&layout=compact&langs_count=7&theme=radical" />
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianomazetto&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianomazetto&theme=radical)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianomazetto&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical" />
+</p>
 
 ---
 
-
 ## 🔗 Conecte-se comigo
-* [LinkedIn](https://www.linkedin.com/in/adriano-rosa-mazetto/)
+<p align="left">
+<a href="https://www.linkedin.com/in/adriano-rosa-mazetto/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="mailto:adriano@mazetto.net" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
 
 ---
 
