@@ -8,7 +8,7 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 
 ## 🛠️ No que eu trabalho atualmente
 * **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
-* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um Software como Serviço (SaaS) construído com **React, TypeScript, TailwindCSS** e gerenciado por **Supabase** (PostgreSQL, Auth, Storage) na infraestrutura da **Vercel**. Visite o projeto no ar: [fazbico.net](https://www.fazbico.net/)
+* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um Software como Serviço (SaaS) construído com **React, TypeScript, TailwindCSS** e gerenciado por **Supabase** (PostgreSQL, Auth, Storage) na infraestrutura da **Vercel**. Visite o projeto no ar: <a href="https://www.fazbico.net/" target="_blank" rel="noopener noreferrer">fazbico.net</a>
 
 
 ## 🚀 Minhas Habilidades
