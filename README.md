@@ -49,6 +49,9 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
   <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianomazetto&theme=radical" />
   <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical" />
 </p>
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomazetto&layout=donut&theme=radical" width="350" />
+</p>
 
 ---
 
