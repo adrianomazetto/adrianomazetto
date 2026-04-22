@@ -1,6 +1,7 @@
 # Olá, eu sou o Adriano Mazetto! 👋
 
 ### Instrutor de Formação Profissional @ SENAI | Desenvolvedor Full Stack | Entusiasta Maker
+📍 **Itu/Sorocaba - SP**
 
 Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxima geração de desenvolvedores no **SENAI Sorocaba**. Minha trajetória une a experiência técnica em suporte e infraestrutura com a criatividade do desenvolvimento de sistemas e a metodologia do Design Thinking.
 
@@ -9,7 +10,8 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ## 🛠️ No que eu trabalho atualmente
 
 * **Educação Profissional:** Leciono sobre desenvolvimento de sistemas, cobrindo desde lógica de programação até arquiteturas complexas.
-* **[Projeto FazBico](https://www.fazbico.net/):** Desenvolvendo uma plataforma web completa para conectar prestadores de serviços locais aos clientes de forma direta via WhatsApp. Um SaaS construído com **React, TypeScript, TailwindCSS** e **Supabase**. 
+* **[Projeto FazBico](https://www.fazbico.net/):** Plataforma SaaS completa para conectar prestadores de serviços locais via WhatsApp. 
+  - **Stack:** React, TypeScript, TailwindCSS e **Supabase** (PostgreSQL, Auth, Storage).
   - **Visite o projeto:** <a href="https://www.fazbico.net/" target="_blank" rel="noopener noreferrer">fazbico.net</a>
 
 ---
@@ -30,7 +32,7 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-### 🔌 Hardware & IoT
+### 🔌 Hardware & DevOps
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
