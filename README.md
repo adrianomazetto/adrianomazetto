@@ -50,6 +50,8 @@ Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxim
 
 ---
 
+<img src="https://metrics.lemetree.pv/adrianomazetto?template=classic&base.header=0&base.activity=0&base.community=0&languages=1&languages.sections=most-used&languages.details=percentage" alt="Metrics" />
+
 ## 🔗 Conecte-se comigo
 * [LinkedIn](https://www.linkedin.com/in/adriano-rosa-mazetto/)
 
