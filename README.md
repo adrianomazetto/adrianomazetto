@@ -2,7 +2,7 @@
   
   <!-- Animação de digitação em verde neon -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+o+Adriano!;Desenvolvedor+Full+Stack;Transformando+ideias+em+código" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=26&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Adriano!;Desenvolvedor+Full+Stack;Transformando+ideias+em+código" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -21,8 +21,8 @@
 
   <!-- Cards de Status do GitHub com tema Dark/Neon -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=adrianomazetto&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=00F0FF&icon_color=00FF88" height="195" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianomazetto&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=00F0FF" height="195" />
+    <!-- Substituído para o Streak Stats devido à instabilidade do servidor anterior -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00FF88&sideLabels=e2e8f0&dates=94a3b8" height="195" />
   </div>
 
   <br><br>
