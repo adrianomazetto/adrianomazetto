@@ -28,7 +28,7 @@
   <br><br>
 
   <!-- Links de Contato -->
-  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/adriano-rosa-mazetto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
   <a href="mailto:adriano@mazetto.net">
