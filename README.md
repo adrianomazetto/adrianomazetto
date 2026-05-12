@@ -9,7 +9,11 @@
   </a>
   
   <p>📍 <b>Itu/Sorocaba - SP</b></p>
-  
+  <br>
+
+  <!-- Janela do Terminal Animada -->
+  <img src="./terminal.svg" width="100%" />
+
   <p><i>Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxima geração de desenvolvedores no <b>SENAI Sorocaba</b>.<br>Minha trajetória une a experiência técnica em suporte e infraestrutura com a criatividade do desenvolvimento de sistemas e a metodologia do Design Thinking.</i></p>
 
 
