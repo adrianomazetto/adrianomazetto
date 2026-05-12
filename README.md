@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Efeito de Água Animado (Topo) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=150&section=header&animation=twinkling"/>
+  <!-- Efeito Matrix Animado (Topo) -->
+  <img width="100%" height="150" style="object-fit: cover;" src="https://raw.githubusercontent.com/favstats/ds3_r_intro/main/images/matrix-code.gif"/>
   
   <!-- Animação de digitação em verde neon -->
   <a href="https://git.io/typing-svg">
@@ -12,8 +12,7 @@
   
   <p><i>Sou um educador apaixonado por tecnologia, atualmente focado em formar a próxima geração de desenvolvedores no <b>SENAI Sorocaba</b>.<br>Minha trajetória une a experiência técnica em suporte e infraestrutura com a criatividade do desenvolvimento de sistemas e a metodologia do Design Thinking.</i></p>
 
-  <!-- Linha Neon Animada (Meio) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 </div>
 
@@ -44,8 +43,7 @@
 
 <div align="center">
 
-  <!-- Linha Neon Animada (Meio) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
   <!-- Badges de Habilidades Animados / 3D -->
   <h3>🚀 Tecnologias e Ferramentas</h3>
@@ -84,7 +82,7 @@
   
   <h3><i>"Transformando lógica em solução e alunos em profissionais."</i></h3>
 
-  <!-- Efeito de Água Animado (Rodapé) -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=150&section=footer&animation=twinkling"/>
+  <!-- Efeito Matrix Animado (Rodapé) -->
+  <img width="100%" height="150" style="object-fit: cover;" src="https://raw.githubusercontent.com/favstats/ds3_r_intro/main/images/matrix-code.gif"/>
   
 </div>
