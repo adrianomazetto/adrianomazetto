@@ -82,7 +82,7 @@
   
   <h3><i>"Transformando lógica em solução e alunos em profissionais."</i></h3>
 
-  <!-- Efeito Matrix Animado (Rodapé) -->
-  <img width="100%" src="./matrix.svg"/>
+  <!-- Efeito Onda Animada (Rodapé) -->
+  <img width="100%" src="./onda.svg"/>
   
 </div>
