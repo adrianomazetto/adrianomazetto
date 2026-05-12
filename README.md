@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Efeito Matrix Animado (Topo) -->
-  <img width="100%" height="150" style="object-fit: cover;" src="https://raw.githubusercontent.com/favstats/ds3_r_intro/main/images/matrix-code.gif"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/43535171/141151608-251f2f01-52ab-44eb-b6df-cb2dbdd7ec93.gif"/>
   
   <!-- Animação de digitação em verde neon -->
   <a href="https://git.io/typing-svg">
@@ -83,6 +83,6 @@
   <h3><i>"Transformando lógica em solução e alunos em profissionais."</i></h3>
 
   <!-- Efeito Matrix Animado (Rodapé) -->
-  <img width="100%" height="150" style="object-fit: cover;" src="https://raw.githubusercontent.com/favstats/ds3_r_intro/main/images/matrix-code.gif"/>
+  <img width="100%" src="https://user-images.githubusercontent.com/43535171/141151608-251f2f01-52ab-44eb-b6df-cb2dbdd7ec93.gif"/>
   
 </div>
