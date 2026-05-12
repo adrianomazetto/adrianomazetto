@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Linha Neon Animada (Topo) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <!-- Efeito de Água Animado (Topo) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=150&section=header&animation=twinkling"/>
   
   <!-- Animação de digitação em verde neon -->
   <a href="https://git.io/typing-svg">
@@ -84,7 +84,7 @@
   
   <h3><i>"Transformando lógica em solução e alunos em profissionais."</i></h3>
 
-  <!-- Linha Neon Animada (Fim) -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <!-- Efeito de Água Animado (Rodapé) -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF88&height=150&section=footer&animation=twinkling"/>
   
 </div>
