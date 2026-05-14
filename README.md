@@ -71,7 +71,7 @@
   <div align="center">
     <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
     <a href="https://sudoku2-b28.pages.dev/" target="_blank">
-      <img src="./sudoku.png" width="500" alt="Sudoku Game" />
+      <img src="./sudoku.png" width="250" alt="Sudoku Game" />
     </a>
   </div>
 
