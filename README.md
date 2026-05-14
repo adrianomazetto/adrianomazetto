@@ -67,6 +67,16 @@
 
   <br><br>
 
+  <!-- Sudoku Game Section -->
+  <div align="center">
+    <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
+    <a href="https://sudoku2-b28.pages.dev/" target="_blank">
+      <img src="./sudoku.png" width="500" alt="Sudoku Game" />
+    </a>
+  </div>
+
+  <br><br>
+
   <!-- Links de Contato -->
   <a href="https://www.linkedin.com/in/adriano-rosa-mazetto/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
