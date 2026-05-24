@@ -67,6 +67,8 @@
 
 <br><br>
 
+<p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
+
 <table align="center" border="0">
   <tr>
     <td align="center" valign="top" style="padding: 20px;">
