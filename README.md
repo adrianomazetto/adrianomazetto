@@ -70,21 +70,20 @@
 <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
 
 <table align="center" border="0">
-  <tr>
-    <td align="center" valign="top" style="padding: 20px;">
-      <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
-      <a href="https://sudoku2-b28.pages.dev/" target="_blank">
-        <img src="./sudoku.png" width="250" alt="Sudoku Game" />
-      </a>
-    </td>
-    
-    <td align="center" valign="top" style="padding: 20px;">
-      <p>🧱 <b>Ou prefere um clássico Tetris?</b></p>
-      <a href="https://tetris-pwa.adriano-6e8.workers.dev/" target="_blank">
-        <img src="./tetris.png" width="250" alt="Tetris Game" />
-      </a>
-    </td>
-  </tr>
+<tr>
+<td align="center" valign="top">
+<p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
+<a href="https://sudoku2-b28.pages.dev/" target="_blank">
+<img src="./sudoku.png" width="250" alt="Sudoku Game" />
+</a>
+</td>
+<td align="center" valign="top">
+<p>🧱 <b>Ou prefere um clássico Tetris?</b></p>
+<a href="https://tetris-pwa.adriano-6e8.workers.dev/" target="_blank">
+<img src="./tetris.png" width="250" alt="Tetris Game" />
+</a>
+</td>
+</tr>
 </table>
 
 <br><br>
