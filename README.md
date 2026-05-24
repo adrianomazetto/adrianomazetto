@@ -65,17 +65,27 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrianomazetto&theme=radical&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakNum=00F0FF&sideNums=00F0FF&currStreakLabel=00FF88&sideLabels=e2e8f0&dates=94a3b8" height="195" />
   </div>
 
-  <br><br>
+<br><br>
 
-  <!-- Sudoku Game Section -->
-  <div align="center">
-    <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
-    <a href="https://sudoku2-b28.pages.dev/" target="_blank">
-      <img src="./sudoku.png" width="250" alt="Sudoku Game" />
-    </a>
-  </div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="top" style="padding: 20px;">
+      <p>🧩 <b>Que tal jogar um game para relaxar um pouco?</b></p>
+      <a href="https://sudoku2-b28.pages.dev/" target="_blank">
+        <img src="./sudoku.png" width="250" alt="Sudoku Game" />
+      </a>
+    </td>
+    
+    <td align="center" valign="top" style="padding: 20px;">
+      <p>🧱 <b>Ou prefere um clássico Tetris?</b></p>
+      <a href="https://tetris-pwa.adriano-6e8.workers.dev/" target="_blank">
+        <img src="./tetris.png" width="250" alt="Tetris Game" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  <br><br>
+<br><br>
 
   <!-- Links de Contato -->
   <a href="https://www.linkedin.com/in/adriano-rosa-mazetto/" target="_blank">
